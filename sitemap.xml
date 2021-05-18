@@ -9,20 +9,6 @@
   </url>
   
   <url>
-    <loc>https://code-mit.github.io/2020/11/20/hello-world/</loc>
-    
-    <lastmod>2020-11-20</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://code-mit.github.io/2020/11/20/Codable/</loc>
-    
-    <lastmod>2020-11-20</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://code-mit.github.io/404/index.html</loc>
     
     <lastmod>2020-11-19</lastmod>
@@ -46,7 +32,7 @@
 
   <url>
     <loc>https://code-mit.github.io/</loc>
-    <lastmod>2020-11-23</lastmod>
+    <lastmod>2021-05-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
